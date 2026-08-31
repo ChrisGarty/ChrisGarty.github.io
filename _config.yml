@@ -1,0 +1,26 @@
+title: "Chris Garty — Youth Soccer Coaching"
+description: "Practical notes on player development, training design, and coaching the youth game."
+url: "https://chrisgarty.github.io"
+baseurl: ""
+theme: minima
+show_excerpts: true
+permalink: /articles/:year/:month/:day/:title/
+
+author:
+  name: Chris Garty
+
+header_pages:
+  - about.md
+
+minima:
+  skin: auto
+  date_format: "%B %-d, %Y"
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+

@@ -1,0 +1,37 @@
+---
+---
+
+@import "minima";
+
+:root {
+  --pitch-green: #24533d;
+  --warm-paper: #fbfaf6;
+  --ink: #202621;
+}
+
+body {
+  background: var(--warm-paper);
+  color: var(--ink);
+}
+
+.site-header {
+  border-top: 5px solid var(--pitch-green);
+}
+
+.site-title,
+.site-title:visited,
+.page-link,
+a {
+  color: var(--pitch-green);
+}
+
+.post-title,
+.post-content h2 {
+  letter-spacing: -0.02em;
+}
+
+.post-content {
+  font-size: 1.08rem;
+  line-height: 1.72;
+}
+
