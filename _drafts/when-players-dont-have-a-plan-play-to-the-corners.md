@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When Players Don’t Have a Plan, Play to the Corners"
+title: "Play to the Corners: A Simple Coaching Cue"
 date: 2026-08-30
 categories: [Game Coaching, Player Development, 11v11]
 tags: [decision-making, width, space, forward-passing, team-shape]
