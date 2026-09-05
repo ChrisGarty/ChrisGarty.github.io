@@ -15,21 +15,23 @@ In my experience with youth teams, one of the most useful coaching points in pos
 
 **Play to the corners.**
 
+By “corners,” I mean the wide space behind the opposition’s defenders where a teammate can run onto the ball. The corner flag itself is not the target. The useful picture is space ahead of a wide player and a pass they have a realistic chance of reaching.
+
+That gives the player on the ball an option and the players around them a reason to spread out and make runs.
+
 ## Start with shoot, dribble, pass
 
-We teach players a basic order of operations on the soccer field: shoot, dribble, and pass.
+I give players three questions to help them decide what to do with the ball:
 
 - Am I close enough to take a good shot?
 - Do I have space to dribble toward the other goal?
 - Is a teammate open in a better position?
 
-That framework gives young players a useful starting point for making decisions. But what happens in the middle of the field when none of those options is clearly available?
+These are prompts to read the game, rather than a fixed sequence they must work through before making a pass. But young players can still struggle to see an option in the middle of the field.
 
 The player may be too far from goal to shoot. Defenders may be blocking the space ahead, leaving nowhere useful to dribble. Teammates may be marked or standing where a pass to feet does not improve the attack.
 
-What should the default play be then?
-
-Play to the corners.
+This is where I want them to look beyond a teammate’s feet. A teammate who is marked may still be able to run onto a pass into space ahead of them. Seeing that space opens up a passing option the player might otherwise miss.
 
 ## Why the corners are often available
 
@@ -45,7 +47,7 @@ That one pass can:
 - create an opportunity to cross or dribble toward goal; and
 - give the rest of the team time to move up the field.
 
-Even if a defender recovers the ball first, the wide player can apply immediate pressure while teammates move forward to support the play.
+Even if a defender gets there first, a wide player who is close enough can pressure the ball while teammates move forward to support the play.
 
 ## This is not just kicking it long
 
@@ -61,18 +63,18 @@ Yet we do not always give young players permission to look for it.
 
 ## A coaching point that changes team behavior
 
-Encouraging players to dribble into space and pass to open teammates is important. Giving them the freedom to pass forward and long **into space in front of a teammate** can unlock another level of ability and creativity.
+We spend a lot of time encouraging players to dribble into space and pass to open teammates. I also want them to know they can play a longer pass **into space in front of a teammate**. They may start seeing passes they previously thought they weren’t allowed to make.
 
 The idea also changes players who are away from the ball. Once wide players see teammates looking for passes into the corners, they have a reason to hold their width and prepare to run behind. Their positioning becomes purposeful because they know the pass might come.
 
-That creates a positive cycle: the wide player offers the run, the player on the ball sees a forward option, and the entire team learns how width and depth can help them move through pressure.
+Instead of repeatedly telling everyone to spread out, I can give them a shared idea of where the next pass might go. The wide player prepares to run, the player on the ball looks for that run, and teammates move up to support the attack.
 
 ## Keep the instruction simple
 
 For a team that is still learning how to organize itself, the coaching message does not need to be complicated:
 
-> First, can you shoot? Can you dribble forward? Can you pass to someone in a better position? If none of those options is available, can you play into a corner for a wide player to chase?
+> If the middle is crowded, look into the corners. Can you pass into space ahead of a wide player for them to run onto?
 
-It is not a rule for every possession. Sometimes the team should keep the ball, play backward, or switch the point of attack. But for young players who are crowded in the middle and do not yet see a solution, “play to the corners” is a useful default.
+If there is no reachable space or no teammate who can make the run, the player needs another option: keep the ball, play backward, or switch the point of attack. “Play to the corners” gives them somewhere useful to look when they are stuck, while still asking them to judge whether the pass is there.
 
 It gives the player on the ball a plan. It gives the wide players a reason to find space. And it gives the whole team a chance to move forward together.
