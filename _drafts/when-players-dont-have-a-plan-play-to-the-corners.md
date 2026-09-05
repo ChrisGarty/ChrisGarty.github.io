@@ -37,7 +37,7 @@ This is where I want them to look beyond a teammate’s feet. A teammate who is 
 
 Youth teams frequently defend the middle of the field in numbers. Playing wide of that pressure can immediately move the ball into more useful space.
 
-The opposition’s wide defenders may also have stepped forward to mark your wide players. That can leave space behind them. Instead of passing directly to a winger’s feet—and sometimes moving the ball farther from goal—a player can pass into the corner in front of the winger and invite them to run onto it.
+The opposition’s wide defenders may also have stepped forward to mark your wide players. That can leave space behind them. Instead of passing directly to a winger’s feet - and sometimes moving the ball farther from goal - a player can pass into the space in front of the winger and invite them to run onto it.
 
 That one pass can:
 
@@ -47,7 +47,7 @@ That one pass can:
 - create an opportunity to cross or dribble toward goal; and
 - give the rest of the team time to move up the field.
 
-Even if a defender gets there first, a wide player who is close enough can pressure the ball while teammates move forward to support the play.
+Even if a defender gets there first, a wide player who is close enough can pressure the ball while teammates move forward to support the play. Ideally we are now defending in the opposition half - pressing and trying to win the ball - instead of defending in our own half
 
 ## This is not just kicking it long
 
@@ -55,11 +55,9 @@ Some coaches and players will hear “play to the corners” and think it means 
 
 That is not the idea.
 
-This is a strategic forward pass into space: behind the back line, outside the defensive block, and into an area where a wide player can run onto the ball. The passer still needs to recognize the moment, see the teammate’s movement, and choose the right weight and direction.
+This is a strategic forward pass into space: behind the back line, outside the defensive block, and into an area where a wide player can run onto the ball. The passer still needs to recognize the moment, see the teammate’s position and movement, and choose the right weight and direction.
 
-When a youth player—or even a professional—plays a well-timed pass down the line into the path of a wide player, we instinctively recognize it. The defense turns, the attack moves forward, and everyone watching thinks, “That’s a great pass.”
-
-Yet we do not always give young players permission to look for it.
+When a youth player - or even a professional - plays a well-timed pass down the line into the path of a wide player, we instinctively recognize it. The defense turns, the attack moves forward, and everyone watching thinks “that’s a great pass”. Yet we do not always give young players permission to make that pass or the encouragement to look for it in the first place.
 
 ## A coaching point that changes team behavior
 
@@ -67,14 +65,14 @@ We spend a lot of time encouraging players to dribble into space and pass to ope
 
 The idea also changes players who are away from the ball. Once wide players see teammates looking for passes into the corners, they have a reason to hold their width and prepare to run behind. Their positioning becomes purposeful because they know the pass might come.
 
-Instead of repeatedly telling everyone to spread out, I can give them a shared idea of where the next pass might go. The wide player prepares to run, the player on the ball looks for that run, and teammates move up to support the attack.
+Instead of repeatedly telling everyone to spread out, I can give them a shared idea of where the next pass might go. The wide player prepares to run, the player on the ball looks for that run, and teammates can move up to support the attack.
 
 ## Keep the instruction simple
 
 For a team that is still learning how to organize itself, the coaching message does not need to be complicated:
 
-> If the middle is crowded, look into the corners. Can you pass into space ahead of a wide player for them to run onto?
+> If the middle is crowded, look to the corners. Can you pass into space ahead of a wide player for them to run onto?
 
 If there is no reachable space or no teammate who can make the run, the player needs another option: keep the ball, play backward, or switch the point of attack. “Play to the corners” gives them somewhere useful to look when they are stuck, while still asking them to judge whether the pass is there.
 
-It gives the player on the ball a plan. It gives the wide players a reason to find space. And it gives the whole team a chance to move forward together.
+It gives the player on the ball an option. It gives the wide players a reason to find space. And it gives the whole team a chance to move forward together.
