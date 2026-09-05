@@ -19,7 +19,7 @@ These are the habits I want to bring to coaching U13+ girls. Most apply across y
 
 - **Do:** Share schedules, arrival times, changes, and actions needed.
 - **Don’t:** Assume everyone saw a last-minute update.
-- **Best practice:** Use a predictable weekly message or post-event updates with a “Coming up” section. Follow up directly on important changes.
+- **Best practice:** Use a predictable weekly message or send post-practice updates with a “Coming up” section. Follow up directly on important changes.
 
 ## Plan training
 
@@ -37,7 +37,7 @@ These are the habits I want to bring to coaching U13+ girls. Most apply across y
 
 - **Do:** Check that players leave safely and capture useful observations.
 - **Don’t:** Judge the session only by its most popular activity.
-- **Best practice:** Ask: What worked? What did players learn? What comes next?
+- **Best practice:** Ask: What worked? What did players learn? What comes next? Send a message to the team chat to share those reflections with parents.
 
 ## Prepare for games
 
@@ -47,9 +47,9 @@ These are the habits I want to bring to coaching U13+ girls. Most apply across y
 
 ## Coach games
 
-- **Do:** Observe, use brief cues, and give substitutes something to watch for.
-- **Don’t:** Direct every pass, argue with officials, or substitute a player simply for making a mistake.
-- **Best practice:** Save detailed teaching for breaks. At halftime, reinforce positives and make one or two adjustments.
+- **Do:** Observe, provide positive comments, remind them of coaching points with brief cues, and give substitutes something to watch for.
+- **Don’t:** Coach the player on the ball, yell instructions across the field, argue with officials, or substitute a player simply for making a mistake.
+- **Best practice:** Save detailed teaching for when players are on the subs bench or during halftime. At halftime, reinforce positives and make one or two adjustments.
 
 ## Review games
 
@@ -65,6 +65,6 @@ These are the habits I want to bring to coaching U13+ girls. Most apply across y
 
 ## What matters to me
 
-My U13+ priorities are to keep players enjoying soccer, help them understand the game, and make new players feel welcome. Long talks and constant instructions leave less room for that. I want training and games to give players repeated chances to make decisions, try again, and recognize their own progress.
+My U13+ priorities are to keep players enjoying soccer, help them understand the game, and make new players feel welcome. Long talks and frequent instructions leave less room for that. I want training and games to give players repeated chances to make decisions, try again, and recognize their own progress.
 
 These are personal coaching notes, not official club policy. The useful test is whether my habits help players learn and want to keep playing.
