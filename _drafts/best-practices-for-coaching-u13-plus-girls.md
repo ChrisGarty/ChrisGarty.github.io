@@ -4,7 +4,7 @@ title: "Best Practices for Coaching U13+ Girls"
 date: 2026-09-01
 categories: [Coaching Philosophy, Player Development, U13+ Girls]
 tags: [communication, training-design, game-coaching, reflection]
-excerpt: "Do, don’t, and best practice: practical coaching habits from the first team message to the final game."
+excerpt: "Do, don’t, and best practice: practical coaching habits"
 ---
 
 These are the habits I want to bring to coaching U13+ girls. Most apply across youth soccer: prepare well, communicate clearly, and give players time to play and think.
@@ -13,13 +13,14 @@ These are the habits I want to bring to coaching U13+ girls. Most apply across y
 
 - **Do:** Explain expectations, coach roles, and who families should contact.
 - **Don’t:** Wait for a problem to explain how the team works.
-- **Best practice:** Hold a short player-and-parent meeting; send one written season overview.
+- **Best practice:** Hold a short player-and-parent meeting in the first two weeks; send one written season overview.
 
-## Communicate each week
+## Communicate at least weekly
 
-- **Do:** Share schedules, arrival times, changes, and actions needed.
-- **Don’t:** Assume everyone saw a last-minute update.
-- **Best practice:** Use a predictable weekly message or send post-practice updates with a “Coming up” section. Follow up directly on important changes.
+- **Do:** Communicate weekly practice themes, key cosching points, upcoming schedule, schedule changes, and actions. 
+- **Do:** Use team chat in SportsEngine as your primary communication channel because it provides a durable communication history and it allows for reply, discussion, and "likes" for feedback. 
+- **Don’t:** Communicate only about logistics and schedules, because parents want to know why you are doing what you are doing. 
+- **Best practice:** Send a brief message after each training and each game: explain what happened and why, celebrate something good that two players did, and end with a “Coming up” section to remind parents about upcoming trainings, games, RSVP deadlines, and other events.  
 
 ## Plan training
 
