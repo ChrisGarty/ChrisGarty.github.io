@@ -1,11 +1,45 @@
 ---
 layout: post
-title: "Play to the Corners: A Simple Coaching Cue"
+title: "Soccer tactics for youth teams: Play to the Corners"
 date: 2026-08-30
-categories: [Game Coaching, Player Development, 11v11]
+categories: [Game Coaching, Player Development, 7v7, 9v9, 11v11]
 tags: [decision-making, width, space, forward-passing, team-shape]
-excerpt: "A simple default option can help an unstructured youth team use width, play forward, and make better decisions."
+excerpt: "A simple default option can help a youth team play forward, use width, and go around the opposition instead of straight through them."
 ---
+
+When coaching youth soccer players in possession of the ball, we advise them to perform three basic actions in priority order: shoot, dribble, pass.
+- Am I close enough to take a good shot?
+- Do I have space to dribble toward the other goal?
+- Is a teammate open in a better position?
+
+## Attacking through the center 
+The player may be too far from goal to shoot, so they need to advance the ball towards the opposing goal. The most direct path to the goal is straight through the center. However, the opposing team will usually have multiple lines of players in the center and position some of their best defenders in the center. Going through the middle, a dribble or a pass will encounter center midfielders, defensive midfielders, center backs, and goalie. In addition, help can come to the center from either side, so it is the easiest area for defending teams to reinforce. 
+
+## Attacking through wide areas
+The opposing team will usually have fewer players in wide areas. Those areas also cannot be reinforced as easily, so 2v1 opportunities can be easier to find. The corners of the field nearest to the opponent's goal are also areas that the goalkeeper will find hard to venture into because of the risk of leaving the goal open, so long passes played into these corners will be hard for the goalkeeper to sweep up. 
+
+## Coaching attacks into wide areas
+Since the primary objective of a player is to advance the ball forward towards the goal, the concept of playing with width can be challenging because it is directly contradicting their primary objective. 
+
+=== Edit ===
+
+
+Players who are unfamiliar with or untrusting of their teammates can also struggle to combine with teammates playing wide because of the concern that if they pass the ball 
+
+
+These are prompts to read the game, rather than a fixed sequence they must work through before making a pass. But young players can still struggle to see an option in the middle of the field.
+
+The player may be too far from goal to shoot. Defenders may be blocking the space ahead, leaving nowhere useful to dribble. Teammates may be marked or standing where a pass to feet does not improve the attack.
+
+This is where I want them to look beyond a teammate’s feet. A teammate who is marked may still be able to run onto a pass into space ahead of them. Seeing that space opens up a passing option the player might otherwise miss.
+
+
+
+
+
+When kids start playing soccer, pretty quickly they learn that if they shoot and score a goal, that's a good thing. And then getting the ball to the goal through dribbling enables them to score, so that comes next. And when they get a little bit more experience and play with other kids, the concept of passing the ball can allow them to move the ball faster than dribbling and allows them to pass the ball around an opposing player.   
+
+
 
 Sometimes you are coaching a team that is really unstructured. Everyone is dribbling too much. Players will not pass. The whole team bunches up in the middle.
 
