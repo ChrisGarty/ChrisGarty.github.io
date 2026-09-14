@@ -16,12 +16,25 @@ When coaching youth soccer players in possession of the ball, we advise them to 
 The player may be too far from goal to shoot, so they need to advance the ball towards the opposing goal. The most direct path to the goal is straight through the center. However, the opposing team will usually have multiple lines of players in the center and position some of their best defenders in the center. Going through the middle, a dribble or a pass will encounter center midfielders, defensive midfielders, center backs, and goalie. In addition, help can come to the center from either side, so it is the easiest area for defending teams to reinforce. 
 
 ## Attacking through wide areas
-The opposing team will usually have fewer players in wide areas. Those areas also cannot be reinforced as easily, so 2v1 opportunities can be easier to find. The corners of the field nearest to the opponent's goal are also areas that the goalkeeper will find hard to venture into because of the risk of leaving the goal open, so long passes played into these corners will be hard for the goalkeeper to sweep up. 
+The opposing team will usually have fewer players in wide areas. Those areas also cannot be reinforced as easily, so 2v1 opportunities can be easier to find. The corners of the field nearest to the opponent's goal are also areas that the goalkeeper will find hard to venture into because of the risk of leaving the goal open, so long passes pla  yed into these corners will be hard for the goalkeeper to sweep up. 
 
-## Coaching attacks into wide areas
-Since the primary objective of a player is to advance the ball forward towards the goal, the concept of playing with width can be challenging because it is directly contradicting their primary objective. 
+## Turning and moving the defense
+Once the ball advances into the attacking areas to the sides of the goal boxes, the defense will usually turn to face the ball and shift towards it slightly. This provides two key benefits: 1. The turned defenders cannot easily see attackers on the other side of the field or even attackers moving towards the goal from the middle of the field. 2. The shifted defenders are potentially moving away from the front of the goal, leaving it more vulnerable. 
 
-=== Edit ===
+When attacks come through the center of the field then both of those benefits are lost. 
+
+=== Needs work === 
+
+## What are the wide areas and what are the corners?
+To communicate areas on a soccer field, it is common to divide half the field into thirds vertically and horizontally and coaches can even divide a half  
+https://learning.coachesvoice.com/wp-content/webpc-passthru.php?src=https://learning.coachesvoice.com/wp-content/uploads/2022/05/Tactics1.png&nocache=1
+https://learning.coachesvoice.com/cv/half-spaces-football-tactics-explained/
+A study in 1999 from Liverpool University  basis for a lot of positional commentary comes from a 1999 https://footballperformanceanalysis.com/2013/08/19/what-is-zone-14-in-football/ 
+
+## Coaching attacks via wide areas
+Since the primary objective of a player is to advance the ball forward towards the goal, the concept of playing with width can be challenging because it is directly contradicting their primary objective. The shortest path to goal is through the middle, so hw
+
+=== Old ===
 
 
 Players who are unfamiliar with or untrusting of their teammates can also struggle to combine with teammates playing wide because of the concern that if they pass the ball 
