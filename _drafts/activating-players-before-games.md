@@ -120,4 +120,64 @@ This variation puts more emphasis on longer passing and progressing the ball. It
 
 I use it to bring some freshness to the pregame routine. For my usual warm-up, the two-team rondo is generally the better fit: simpler to organize, with close touches, decisions, and pressing built into the activity. Over the river offers variety when the space and circumstances suit it.
 
-<!-- Working draft: Activity 3 is still to be dictated and added. -->
+## Activity 3: Three versus two to goal
+
+This activity prepares players physically and mentally for attacking and defending close to goal. It emphasizes central attacking play, complementing the wide attacking play in crossing and finishing. With defenders present, the attackers have to read the opposition and decide whether to shoot, dribble, or pass.
+
+### Setup and player numbers
+
+The core activity needs three attackers and two defenders, with a goalkeeper or a coach in goal. My usual setup is two defenders, six to nine attackers, and one goalkeeper: nine to twelve players in total. With nine attackers, that gives three players in each attacking line and twelve players overall.
+
+- Place three cones roughly halfway between the top of the penalty area and the halfway line: one central, one to the right, and one to the left.
+- Have the attackers form a line behind each cone, with all the balls starting at the central cone.
+- Start the two defenders inside the penalty area, ideally wearing pinnies.
+- Use a goalkeeper in goal, or have the coach take that role if no goalkeeper is available.
+
+Encourage attackers to change starting positions between repetitions. Starting centrally, on the right, and on the left gives them experience in different positions relative to the ball.
+
+### Starting and playing each repetition
+
+The central attacker starts play. They do not have to pass immediately: they can dribble forward, take the available space, and draw a defender before deciding what to do next. This self-directed start works well and keeps the activity moving without needing the coach to feed every ball.
+
+If two coaches are available, one can instead stand near the attacking starting positions and pass a ball into any of the three attackers to start play.
+
+Once the attackers begin playing, the defenders can move outside the penalty area to engage them. The attackers work together to create a scoring opportunity against the two defenders and goalkeeper.
+
+After each repetition, the defenders reset inside the penalty area. This gives the next three attackers space to advance and a fresh opportunity to read the defenders.
+
+### What it activates
+
+The attackers face several connected decisions:
+
+- **Shoot:** Am I close enough, with a realistic chance of scoring? Where can I place the shot?
+- **Dribble:** Is there space I can take? Can I advance with the ball and draw a defender?
+- **Pass:** Would a teammate have a better opportunity? Which of my two teammates should receive the ball?
+- **Weight and placement:** How hard should I pass? Should I play to the teammate's feet or into space ahead of them to help create an easier finish?
+
+The defenders prepare to pressure the ball, provide cover, and make decisions together against an attacking overload. Both groups are responding to opponents rather than simply following a passing sequence.
+
+Because the activity uses a larger area, players also get more exposure to the playing surface and conditions as they advance, pass, defend, and shoot.
+
+### Keeping two defenders or rotating two pairs
+
+My default is to keep two players focused on defending for a block of five to ten repetitions, resetting inside the penalty area each time.
+
+For an 11v11 group with around fourteen or more players, I may use four defenders in two pairs. One pair defends while the other waits near the goalposts, then they switch after each repetition. The waiting players can also help retrieve balls from shots that miss the goal.
+
+Switching pairs can add time between repetitions, but it gives the defenders a break and provides extra help returning balls. I generally use this version when the player numbers justify it.
+
+### What happens when the defenders win the ball?
+
+A simple objective is for the defenders to win possession and pass the ball back up to the next set of attackers. That gives them a useful action after winning it and helps return the ball for the next repetition.
+
+An alternative is to set up counter goals near the attackers' starting positions. The defenders try to score in those after winning possession.
+
+Counterattacking to those goals asks more of the defenders physically and extends the repetition. I tend to reserve it for a longer version of the activity with two pairs of defenders. A fresh pair can then prepare to face the next attackers instead of asking the same two players to finish a counterattack and immediately recover to defend again. Keep successive repetitions clear of one another as the pairs change.
+
+### The coach's role
+
+With one coach, I prefer to be near the goal: beside and behind the goalkeeper, or beside the goal where I can step in to retrieve balls from the net. If there is no goalkeeper, I can play in goal myself.
+
+That position lets me encourage both sides. For the attackers, I want to recognize taking available space, good shooting decisions, and shots placed into the corners. For the defenders, I want to recognize good pressure, covering a teammate, and sound decisions.
+
+Keep the encouragement positive and let players make the decisions. Praise what they have done, then give the next group the opportunity to read and solve the situation for themselves.
