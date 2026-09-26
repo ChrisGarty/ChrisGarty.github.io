@@ -181,3 +181,17 @@ With one coach, I prefer to be near the goal: beside and behind the goalkeeper, 
 That position lets me encourage both sides. For the attackers, I want to recognize taking available space, good shooting decisions, and shots placed into the corners. For the defenders, I want to recognize good pressure, covering a teammate, and sound decisions.
 
 Keep the encouragement positive and let players make the decisions. Praise what they have done, then give the next group the opportunity to read and solve the situation for themselves.
+
+## Choosing activities for the time and space available
+
+With around 45 minutes available for the warm-up and access to a goal, my preferred sequence is all three activities:
+
+1. **Crossing and finishing:** start with longer passing and shooting, unopposed by outfield defenders. This provides an initial emphasis on physical activation while still involving ball work and decisions about the delivery, timing, and finish.
+2. **Two-team rondo:** move into close control, short passing, scanning, and pressing with opponents involved.
+3. **Three versus two to goal:** finish with attacking and defending decisions close to goal.
+
+With less time, I start with the two-team rondo and then move into three versus two to goal once a goal becomes available.
+
+When time is extremely limited, or no goal is available, the two-team rondo alone is fine. If a goal becomes available and there is a little time left, I may add a very brief spell of three versus two or simply a few quick shots at goal for the attacking players.
+
+The aim is to choose what fits the available time and facilities while preparing the players' bodies and minds for the game.
